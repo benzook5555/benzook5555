@@ -7,12 +7,12 @@
 ## Contact
 - E-mail:61010912554@msu.ac.th
 - Facebook:Benz'z Anuwat
-- tel:0905574043
+- Tel:0905574043
 
 ## Experience
-- 2021 การออกแบบ Infographic
-- 2021 อบรมสู่การเป็นนักพัฒนาเว็บ : การสร้างหน้าเว็บเบื้องต้น ด้วย HTML และ CSS
--2020 Audit training Cisco Networking Academy Program(R&S)
+- การออกแบบ Infographic
+- อบรมสู่การเป็นนักพัฒนาเว็บ : การสร้างหน้าเว็บเบื้องต้น ด้วย HTML และ CSS
+- Audit training Cisco Networking Academy Program(R&S)
 - Introduction to Data tudio Certifcate of Completion
 
 ## SKILL
